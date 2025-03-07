@@ -47,7 +47,7 @@ const Footer = () => {
       </div>
 
       <div className='copyright'>
-        <p>Copyright © 2022 Dine Market</p>
+        <p>Copyright © 2025 Dine Market</p>
         <p>Design by. <span>Mosabbir Jihan</span></p>
         <p>Code by. <span></span></p>
       </div>
